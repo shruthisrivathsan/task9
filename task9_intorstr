@@ -1,0 +1,16 @@
+#Create list to check int or str and create 2 new empty lists 
+input_list = [1, "Chennai", 45, 981, 344, "Shruthi", 19, 34, "India"]
+int_list =[]
+str_list=[]
+#check the type ofevery value in iput_list 
+is_int = lambda x: type(f(x) for f in input_list)
+#append to respective list
+if is_int:
+    int_list.append(is_int)
+else:
+    str_list.append(is_int)
+#print lists
+print(int_list)
+print(str_list)
+    
+
